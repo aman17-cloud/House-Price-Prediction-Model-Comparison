@@ -47,13 +47,13 @@ The objective was to improve a basic House Price Prediction model by applying **
 
 ## Feature Distributions
 
-![Feature Distributions](screenshots/histograms.png)
+![Feature Distributions](Screenshots/histogram.png)
 
 ---
 
 ## Correlation Heatmap
 
-![Correlation Heatmap](screenshots/heatmap.png)
+![Correlation Heatmap](Screenshots/heatmap.png)
 
 ---
 
@@ -69,19 +69,19 @@ The objective was to improve a basic House Price Prediction model by applying **
 
 ## Comparison Table
 
-![Model Comparison Table](screenshots/model_comparison_table.png)
+![Model Comparison Table](Screenshots/model_comparison_table.png)
 
 ---
 
 ## R² Score Comparison
 
-![R2 Comparison](screenshots/r2_comparison.png)
+![R2 Comparison](Screenshots/r2_comparison.png)
 
 ---
 
 ## RMSE Comparison
 
-![RMSE Comparison](screenshots/rmse_comparison.png)
+![RMSE Comparison](Screenshots/rmse_comparison.png)
 
 ---
 
@@ -89,19 +89,19 @@ The objective was to improve a basic House Price Prediction model by applying **
 
 ## Actual vs Predicted
 
-![Actual vs Predicted](screenshots/actual_vs_predicted.png)
+![Actual vs Predicted](Screenshots/actual_vs_predicted.png)
 
 ---
 
 ## Residual Plot
 
-![Residual Plot](screenshots/residual_plot.png)
+![Residual Plot](Screenshots/residual_plot.png)
 
 ---
 
 # 🌳 Feature Importance
 
-![Feature Importance](screenshots/feature_importance.png)
+![Feature Importance](Screenshots/feature_importance.png)
 
 *(Displayed if Decision Tree is selected as the best-performing model.)*
 
